@@ -1,2 +1,7 @@
-# song-to-music
-A cross-platform desktop app built with Tauri + React + Python to separate vocals and instrumentals from any audio file. Uses Spleeter under the hood for fast and accurate music source separation. Features: Split any audio file into vocals and accompaniment Lightweight and cross-platform (Windows, macOS, Linux).
+# Tauri + React + Typescript
+
+This template should help get you started developing with Tauri, React and Typescript in Vite.
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
